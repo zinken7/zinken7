@@ -1,6 +1,4 @@
 👋 Hi, I’m @zinken7</br>
-👀 I’m interested in play G</br>
-🌱 I’m currently learning Python, Typerscript, Tailwind</br>
 💞️ I’m looking to collaborate on remote working</br>
 📫 How to reach me ... via github</br>
 
