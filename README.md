@@ -20,3 +20,7 @@
 
 ## Certifications
 - AWS Certified Solutions Architect – Associate
+
+---
+
+*"Being a good engineer means turning complex problems into clear, actionable solutions."*
