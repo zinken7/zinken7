@@ -14,7 +14,7 @@
 - **Frontend:** Vue.js · Nuxt.js · Vite
 - **Backend:** Flask · FastAPI · REST APIs
 - **Databases & Caching:** PostgreSQL · MySQL · Redis  
-- **Cloud & DevOps:** AWS Services · GitHub Actions · CI/CD  
+- **Cloud & DevOps:** AWS Services · Terraform · CI/CD  
 - **Microsoft 365:** Power Apps · Power Automate · Copilot Studio · Power BI  
 - **Version Control:** Git · GitHub
 
