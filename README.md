@@ -11,8 +11,8 @@
 
 ## Skills
 - **Languages:** Python · JavaScript · TypeScript · SQL · HTML/CSS  
-- **Frontend:** Vue.js · Nuxt.js · Vite
 - **Backend:** Flask · FastAPI · REST APIs
+- **Frontend:** Vue.js · Nuxt.js · Vite
 - **Databases & Caching:** PostgreSQL · MySQL · Redis  
 - **Cloud & DevOps:** AWS Services · Terraform · CI/CD  
 - **Microsoft 365:** Power Apps · Power Automate · Copilot Studio · Power BI  
